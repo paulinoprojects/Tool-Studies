@@ -15,30 +15,30 @@ Wireshark is a powerful tool for network & security engineers, and there are sev
 ## Study Plan
 Day 1:
 
-Install Wireshark: Download and install Wireshark on your computer. Spend some time familiarizing yourself with the interface.
+- Install Wireshark: Download and install Wireshark on your computer. Spend some time familiarizing yourself with the interface.
 
-Learn the basics of networking: Before jumping into Wireshark, it's important to have a basic understanding of networking concepts. Spend some time learning about the OSI model, TCP/IP protocol suite, and common network topologies.
+- Learn the basics of networking: Before jumping into Wireshark, it's important to have a basic understanding of networking concepts. Spend some time learning about the OSI model, TCP/IP protocol suite, and common network topologies.
 
-Capture your first packet: Capture your first packet with Wireshark. Start by capturing some simple network traffic on your own computer or network.
+- Capture your first packet: Capture your first packet with Wireshark. Start by capturing some simple network traffic on your own computer or network.
 
-Analyze captured packets: Analyze the packets you have captured in Wireshark. Start by looking at the headers and understanding what information they contain.
+- Analyze captured packets: Analyze the packets you have captured in Wireshark. Start by looking at the headers and understanding what information they contain.
 
 Day 2:
 
-Filter packets: Learn how to filter packets in Wireshark. Filtering allows you to isolate specific traffic and focus on analyzing it.
+- Filter packets: Learn how to filter packets in Wireshark. Filtering allows you to isolate specific traffic and focus on analyzing it.
 
-Use Wireshark display filters: Wireshark has a powerful display filtering system that allows you to filter packets based on various criteria. Spend some time learning how to use display filters.
+- Use Wireshark display filters: Wireshark has a powerful display filtering system that allows you to filter packets based on various criteria. Spend some time learning how to use display filters.
 
-Understand common protocols: Spend some time learning about common protocols such as HTTP, DNS, TCP, and UDP. This will help you understand the traffic you are capturing.
+- Understand common protocols: Spend some time learning about common protocols such as HTTP, DNS, TCP, and UDP. This will help you understand the traffic you are capturing.
 
-Practice analyzing traffic: Spend the second day practicing your Wireshark skills by capturing traffic on your own network and analyzing it. Try to identify different types of traffic and understand the different protocols being used.
+- Practice analyzing traffic: Spend the second day practicing your Wireshark skills by capturing traffic on your own network and analyzing it. Try to identify different types of traffic and understand the different protocols being used.
 
 Day 3:
 
-Learn advanced features: Once you have a basic understanding of Wireshark, start exploring some of the more advanced features like packet decryption, protocol analysis, and statistical analysis.
+- Learn advanced features: Once you have a basic understanding of Wireshark, start exploring some of the more advanced features like packet decryption, protocol analysis, and statistical analysis.
 
-Join online communities: Join online communities like Wireshark's official forum and Stack Exchange's Network Engineering forum. These communities can help you learn from others and get answers to your questions.
+- Join online communities: Join online communities like Wireshark's official forum and Stack Exchange's Network Engineering forum. These communities can help you learn from others and get answers to your questions.
 
-Take an online course: Consider taking an online course on Wireshark. There are many courses available on platforms like Udemy, Pluralsight, and LinkedIn Learning that can help you develop your skills quickly.
+- Take an online course: Consider taking an online course on Wireshark. There are many courses available on platforms like Udemy, Pluralsight, and LinkedIn Learning that can help you develop your skills quickly.
 
-Practice regularly: Wireshark is a powerful tool, and the more you use it, the better you will become. Try to practice regularly by capturing and analyzing traffic on your own network.
+- Practice regularly: Wireshark is a powerful tool, and the more you use it, the better you will become. Try to practice regularly by capturing and analyzing traffic on your own network.
