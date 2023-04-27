@@ -1,5 +1,5 @@
 # Tool-Studies: Wireshark 
-## Purpose
+## Purpose - Why you should learn Wireshark
 Wireshark is a powerful tool for network & security engineers, and there are several reasons why you should learn it:
 
 - Network troubleshooting: As a network security engineer, you may need to troubleshoot network issues. Wireshark allows you to capture and analyze packets, which can help you identify the root cause of the problem.
@@ -12,7 +12,7 @@ Wireshark is a powerful tool for network & security engineers, and there are sev
 
 - Forensics: Finally, Wireshark can be used for network forensics. If a security incident occurs, you can use Wireshark to capture and analyze packets to identify what happened and how the incident occurred.
 
-## Study Plan
+## Study Plan 
 Day 1:
 
 - Install Wireshark: Download and install Wireshark on your computer. Spend some time familiarizing yourself with the interface.
